@@ -31,3 +31,5 @@ mvnw.cmd
 camunda-app/.mvn/wrapper/
 
 .idea/
+
+credit-checker-service/.mvn/wrapper/
