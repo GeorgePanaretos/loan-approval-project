@@ -1,4 +1,4 @@
-package com.bpm.camunda_app;
+package main.java.com.bpm.camunda_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

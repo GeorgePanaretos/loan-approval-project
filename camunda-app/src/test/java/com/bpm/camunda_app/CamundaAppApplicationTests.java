@@ -1,4 +1,4 @@
-package com.bpm.camunda_app;
+package test.java.com.bpm.camunda_app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

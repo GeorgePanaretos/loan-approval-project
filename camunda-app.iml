@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/camunda-app/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/credit-checker-service" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/camunda-app/src/test/java/com/bpm/camunda_app" />
+      <excludeFolder url="file://$MODULE_DIR$/credit-checker-service/src/test/java/com/kafka/credit_checker_service" />
+    </content>
+  </component>
+</module>
