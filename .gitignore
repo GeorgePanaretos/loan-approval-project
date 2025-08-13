@@ -29,3 +29,5 @@ mvnw
 mvnw.cmd
 
 camunda-app/.mvn/wrapper/
+
+.idea/
